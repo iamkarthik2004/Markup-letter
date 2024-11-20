@@ -1,0 +1,75 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    background-color: #f9f9f9;
+}
+
+.letter-container {
+    background: #ffffff;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ddd;
+}
+
+address {
+    font-style: normal;
+    margin-bottom: 20px;
+}
+
+.sender-info, .receiver-info {
+    color: #2c3e50;
+}
+
+.sender-info span, .receiver-info span {
+    font-weight: bold;
+    color: #2980b9;
+}
+
+.date {
+    color: #e74c3c;
+    font-weight: bold;
+}
+
+.subject {
+    font-size: 1.1em;
+    color: #3498db;
+    margin-top: 10px;
+}
+
+.intro, .body {
+    color: #34495e;
+    margin-bottom: 20px;
+}
+
+h3.section-title {
+    color: #8e44ad;
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+
+.dates-list, .research-areas {
+    padding-left: 40px;
+}
+
+.highlight {
+    color: #27ae60;
+    font-weight: bold;
+}
+
+.research-areas li {
+    margin-bottom: 10px;
+}
+
+.closing, .signature {
+    color: #2c3e50;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.signature {
+    font-style: italic;
+}
+
